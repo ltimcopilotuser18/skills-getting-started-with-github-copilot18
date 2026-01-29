@@ -158,8 +158,8 @@ footer {
 }
 
 .participants-list {
-  list-style-type: disc;
-  padding-left: 22px;
+  list-style-type: none;
+  padding-left: 0;
   margin: 0;
 }
 
